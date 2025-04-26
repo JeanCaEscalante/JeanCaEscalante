@@ -1,64 +1,76 @@
-<h1 align="center">👋 Hola, Soy Jean Carlos Escalante Lara</h1>
-<h3 align="center">🚀 Desarrollador Frontend apasionado | Venezuela 🇻🇪</h3>
+<h1 align="center">👨💻 Jean Carlos Escalante Lara</h1>
+<h3 align="center">PHP/Laravel Specialist | Legacy System Migration Expert</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+experiencias+web" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Transformando+sistemas+legacy+en+arquitecturas+modernas;4+años+de+experiencia+Full-Stack;Especialista+en+soluciones+escalables" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔥 Sobre Mí
-- 💻 Actualmente trabajo en [Caballos](https://github.com/gaviriae/caballos) - Proyecto de gestión equina
-- 🌱 Aprendiendo **React Avanzado y Testing** en [Deep Dive 2022](https://fullstackopen.com/en/)
-- 👯 Colaborando en [UCAI3](https://github.com/JeanCaEscalante/UCAI3) - Proyecto de inteligencia artificial
-- 🎯 Objetivo: Crear aplicaciones web robustas y accesibles
-- ⚡ Dato curioso: ¡Me encanta resolver problemas de codificación mientras tomo café!
+### 🚀 Sobre Mí
+**TSU en Informática** con especialización en desarrollo web robusto. Me apasiona:
+- 🔄 Modernizar sistemas heredados hacia arquitecturas PHP/Laravel
+- 🛠️ Crear soluciones full-stack desde diseño (Figma/PSD) hasta producción
+- ⚡ Optimizar performance y seguridad en aplicaciones existentes
+
+**Experiencia clave:**
+- ✅ 15+ migraciones exitosas de sistemas legacy
+- ✅ 3 años como desarrollador líder en Kickof Development CA
+- ✅ Certificado en Arquitecturas Laravel Avanzadas
 
 ---
 
-### 🛠 Tech Stack
-#### Frontend Principal
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-#### Backend & Frameworks
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-
-#### Testing
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-
-#### Herramientas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+### 💼 Servicios Principales
+| Migraciones de Sistemas | Desarrollo Custom | Mantenimiento Proactivo |
+|-------------------------|-------------------|-------------------------|
+| ✔️ Conversión segura de legacy systems | ✔️ Starter Kits (Jetstream/Breeze) | ✔️ Optimización de performance |
+| ✔️ Reestructuración de bases de datos | ✔️ Integración de APIs | ✔️ Actualizaciones de seguridad |
+| ✔️ Documentación técnica | ✔️ Paneles administrativos | ✔️ Soporte 24/7 |
 
 ---
 
-### 📈 Mis Estadísticas
+### 🛠 Tech Stack Esencial
+#### Core Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+
+#### Frontend & Tools
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+### 💻 Proyectos Destacados
+[![Caballos](https://github-readme-stats.vercel.app/api/pin/?username=gaviriae&repo=caballos&theme=react)](https://github.com/gaviriae/caballos)
+[![UCAI3](https://github-readme-stats.vercel.app/api/pin/?username=JeanCaEscalante&repo=UCAI3&theme=react)](https://github.com/JeanCaEscalante/UCAI3)
+
+---
+
+### 📈 Métricas de Código
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanCaEscalante&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCaEscalante&layout=compact&theme=react"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeanCaEscalante&theme=react" height="180em">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=JeanCaEscalante&theme=react&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCaEscalante&layout=compact&theme=react&hide=blade"/>
 </p>
 
 ---
 
-### 📫 Conéctate Conmigo
-<p align="left">
-  <a href="https://linkedin.com/in/tu-perfil" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+### 📞 Contacto Profesional
+<p align="center">
+  <a href="mailto:tucorreo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40" width="40" />
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://workana.com/tu-perfil">
+    <img src="https://img.shields.io/badge/Workana-0CAE49?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
 
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=JeanCaEscalante&label=Profile%20views&color=0e75b6&style=flat" alt="JeanCaEscalante" /> 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeanCaEscalante.JeanCaEscalante" alt="Visitas"/>
 </p>
