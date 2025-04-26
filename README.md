@@ -40,7 +40,7 @@
 
 ---
 
-### 💻 Proyectos Demos
+### 💻 Proyectos Demo
 [![Sales](https://github-readme-stats.vercel.app/api/pin/?username=JeanCaEscalante&repo=sales-demo&theme=react)](https://github.com/JeanCaEscalante/sales-demo)
 [![UCAI3](https://github-readme-stats.vercel.app/api/pin/?username=JeanCaEscalante&repo=UCAI3&theme=react)](https://github.com/JeanCaEscalante/UCAI3)
 
