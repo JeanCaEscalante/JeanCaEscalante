@@ -1,4 +1,4 @@
-<h1 align="center">👨💻 Jean Carlos Escalante Lara</h1>
+<h1 align="center">💻 Jean Carlos Escalante Lara</h1>
 <h3 align="center">PHP/Laravel Specialist | Legacy System Migration Expert</h3>
 
 <p align="center">
