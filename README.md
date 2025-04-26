@@ -10,7 +10,7 @@
 - ⚡ Optimizar performance y seguridad en aplicaciones existentes
 
 **Experiencia clave:**
-- ✅ 15+ migraciones exitosas de sistemas legacy
+- ✅ 8+ migraciones exitosas de sistemas legacy
 - ✅ 3 años como desarrollador líder en Kickof Development CA
 - ✅ Certificado en Arquitecturas Laravel Avanzadas
 
