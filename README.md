@@ -48,7 +48,6 @@
 
 ### 📈 Métricas de Código
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=JeanCaEscalante&theme=react&layout=compact"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCaEscalante&layout=compact&theme=react&hide=blade"/>
 </p>
 
