@@ -12,7 +12,7 @@
 **Experiencia clave:**
 - ✅ 8+ migraciones exitosas de sistemas legacy
 - ✅ 3 años como desarrollador líder en Kickof Development CA
-- ✅ Certificado en Arquitecturas Laravel Avanzadas
+- ✅ Arquitecturas Laravel Avanzadas
 
 ---
 
