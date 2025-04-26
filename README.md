@@ -41,7 +41,7 @@
 ---
 
 ### 💻 Proyectos Destacados
-[![Caballos](https://github-readme-stats.vercel.app/api/pin/?username=gaviriae&repo=caballos&theme=react)](https://github.com/gaviriae/caballos)
+[![CARNET](https://github-readme-stats.vercel.app/api/pin/?username=JeanCaEscalante&repo=UCAI3&theme=react)](https://github.com/JeanCaEscalante/UCAI3)
 [![UCAI3](https://github-readme-stats.vercel.app/api/pin/?username=JeanCaEscalante&repo=UCAI3&theme=react)](https://github.com/JeanCaEscalante/UCAI3)
 
 ---
