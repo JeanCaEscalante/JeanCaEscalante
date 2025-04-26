@@ -40,8 +40,8 @@
 
 ---
 
-### 💻 Proyectos Destacados
-[![CARNET](https://github-readme-stats.vercel.app/api/pin/?username=JeanCaEscalante&repo=UCAI3&theme=react)](https://github.com/JeanCaEscalante/UCAI3)
+### 💻 Proyectos Demos
+[![Sales](https://github-readme-stats.vercel.app/api/pin/?username=JeanCaEscalante&repo=sales-demo&theme=laravel)](https://github.com/JeanCaEscalante/sales-demo)
 [![UCAI3](https://github-readme-stats.vercel.app/api/pin/?username=JeanCaEscalante&repo=UCAI3&theme=react)](https://github.com/JeanCaEscalante/UCAI3)
 
 ---
