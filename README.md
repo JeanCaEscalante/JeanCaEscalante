@@ -1,5 +1,9 @@
-<h1 align="center">💻 Jean Carlos Escalante Lara</h1>
+<h1 align="center">👨💻 Jean Carlos Escalante Lara</h1>
 <h3 align="center">PHP/Laravel Specialist | Legacy System Migration Expert</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Transformando+sistemas+legacy+en+arquitecturas+modernas;4+años+de+experiencia+Full-Stack;Especialista+en+soluciones+escalables" alt="Typing SVG" />
+</p>
 
 ---
 
