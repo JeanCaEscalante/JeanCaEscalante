@@ -66,7 +66,3 @@
     <img src="https://img.shields.io/badge/Workana-0CAE49?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JeanCaEscalante.JeanCaEscalante" alt="Visitas"/>
-</p>
